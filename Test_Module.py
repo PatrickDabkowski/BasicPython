@@ -1,2 +1,4 @@
 import Function_Module
-Function_Module.modulework()
+computator = Function_Module.computator()
+computator = Function_Module.computator
+computator.modulework(50)
